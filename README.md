@@ -1,2 +1,2 @@
-# SpectrumAnayzerCapsTeensy
-SpectrumAnayzerCapsTeensy
+# SpectrumAnalyzer
+Spectrum Analyzer board
